@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"laodan_battle","characterIndex":0,"characterName":"laodan_walk","classId":1,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"laodan_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"老蛋","nickname":"kululu","note":"","profile":"老蛋是医生"},
+{"id":2,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"正义","nickname":"程序猿","note":"","profile":"正义是程序员"},
+{"id":3,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":5,"equips":[3,0,0,0,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"嬉芜","nickname":"嬉嬉","note":"","profile":"嬉芜会卖萌"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"KC","nickname":"KFC","note":"","profile":""}
+]

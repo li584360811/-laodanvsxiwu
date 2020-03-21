@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":312,"indent":0,"parameters":[0,0,0,0,120]},{"code":0,"indent":0,"parameters":[]}],"name":"KC转换","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":313,"indent":0,"parameters":[0,0,1,13]},{"code":313,"indent":0,"parameters":[0,0,1,11]},{"code":313,"indent":0,"parameters":[0,0,1,10]},{"code":313,"indent":0,"parameters":[0,0,1,9]},{"code":313,"indent":0,"parameters":[0,0,1,6]},{"code":313,"indent":0,"parameters":[0,0,1,4]},{"code":313,"indent":0,"parameters":[0,0,1,5]},{"code":0,"indent":0,"parameters":[]}],"name":"净化","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
